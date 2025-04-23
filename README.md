@@ -108,7 +108,7 @@ Screenshots of each report page are available in the [Screenshots](./Screenshots
 
 ## ✅ What's Included
 
-- ✅ Fully interactive Power BI file [AdventureWorksDashboard.pbix](./AdventureWorksDashboard.pbix)
+- ✅ Fully interactive Power BI file [AdventuresData.pbix](./AdventuresData.pbix)
 - ✅ Screenshots of dashboard pages
 - ✅ This README documentation
 
