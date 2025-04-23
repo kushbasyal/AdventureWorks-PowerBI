@@ -102,30 +102,18 @@ Custom **DAX measures** and **calculated columns** were used for:
 
 ## 🖼️ Preview
 
-Screenshots of each report page are available in the `Screenshots/` folder.
+Screenshots of each report page are available in the [Screenshots](./Screenshots/) folder.
 
 ---
 
 ## ✅ What's Included
 
-- ✅ Fully interactive Power BI file (`.pbix`)
+- ✅ Fully interactive Power BI file [AdventureWorksDashboard.pbix](./AdventureWorksDashboard.pbix)
 - ✅ Screenshots of dashboard pages
 - ✅ This README documentation
 
 ---
 
-## 💡 Suggestions (Optional But Good to Have)
+## 📌 Conclusion
 
-If you're planning to share this online (GitHub or portfolio), consider:
-- Adding a short Loom or YouTube video demo walkthrough (2–3 mins)
-- Exporting PDF versions of each page for offline viewing
-- Including a brief write-up on project learnings
-
----
-
-## 📬 Contact
-
-**Author**: *[Your Name]*  
-**Email**: *[your.email@example.com]*  
-**LinkedIn**: *[linkedin.com/in/yourprofile]*
-
+This Power BI project showcases the end-to-end process of building an interactive business intelligence dashboard using the AdventureWorks dataset. From data cleaning and transformation in Power Query to designing meaningful visualizations using DAX measures, tooltips, drillthroughs, and slicers, the report demonstrates practical skills in data modeling and storytelling. Each page is crafted with usability and insights in mind—empowering users to explore sales trends, returns, product performance, and customer behavior interactively. 
